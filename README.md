@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Mohamed 👋
 
-🇲🇱 Mali | AI & Data Science Enthusiast
+🇲🇱 Mali | AI, Machine Learning & Data Science Enthusiast
 
 ## 🚀 About Me
 
@@ -16,7 +16,6 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
 
 ## 🏆 Achievements
 
-🥉 IOAI 2026 — Team Bronze Medal  
 🏅 IOAI 2026 — Honorable Mention
 
 ## 🛠️ Skills
