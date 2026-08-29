@@ -36,7 +36,7 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
 - CSS
 - JavaScript
   
-##📫 Connect With Me
+## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/mohamed-nimaga-675968326?utm_source=share_via&utm_content=profile&utm_medium=member_android
 📊 Kaggle: My Kaggle
 <!--
