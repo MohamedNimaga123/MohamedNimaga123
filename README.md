@@ -38,7 +38,7 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
   
 ## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/mohamed-nimaga-675968326?utm_source=share_via&utm_content=profile&utm_medium=member_android
-📊 Kaggle: My Kaggle
+📊 Kaggle: https://www.kaggle.com/mohamednimaga
 <!--
 **MohamedNimaga123/MohamedNimaga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
