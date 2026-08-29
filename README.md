@@ -20,14 +20,18 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
 
 ## 🛠️ Skills
 
+### 🤖 Artificial Intelligence & Data Science
 - Python
 - Machine Learning
 - Deep Learning
 - PyTorch
 - Scikit-learn
 - Data Analysis
-- Git & GitHub
 
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
 <!--
 **MohamedNimaga123/MohamedNimaga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
