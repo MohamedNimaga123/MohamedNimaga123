@@ -11,6 +11,7 @@ I'm a high school student passionate about:
 - 📊 Data Science
 - 🔐 Cybersecurity
 - 💻 Computer Science
+
 I'm constantly learning, building projects, and participating in competitions to improve my skills and explore new technologies.
 
 I participated in the International Olympiad in Artificial Intelligence (IOAI) 2026 and received an Honorable Mention.
