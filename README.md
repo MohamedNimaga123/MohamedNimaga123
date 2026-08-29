@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Mohamed 👋
 
 🇲🇱 Mali | AI, Machine Learning & Data Science Enthusiast
@@ -35,6 +34,13 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
 - HTML
 - CSS
 - JavaScript
+
+## 🚀 What I'm Working On
+🤖 Artificial Intelligence & Machine Learning projects
+📊 Data Science projects
+🌐 Web development projects
+🔐 Cybersecurity & CTF challenges
+💻 Improving my programming skills
   
 ## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/mohamed-nimaga-675968326?utm_source=share_via&utm_content=profile&utm_medium=member_android
