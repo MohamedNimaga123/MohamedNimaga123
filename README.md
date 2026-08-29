@@ -35,6 +35,10 @@ I participated in the International Olympiad in Artificial Intelligence (IOAI) 2
 - HTML
 - CSS
 - JavaScript
+  
+##📫 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/mohamed-nimaga-675968326?utm_source=share_via&utm_content=profile&utm_medium=member_android
+📊 Kaggle: My Kaggle
 <!--
 **MohamedNimaga123/MohamedNimaga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
